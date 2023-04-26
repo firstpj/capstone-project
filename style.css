@@ -172,6 +172,7 @@ main {
 }
 
 .main-page h1 {
+  text-transform: uppercase;
   color: #ec5242;
   font-size: 3rem;
   font-weight: 500;
