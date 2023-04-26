@@ -28,11 +28,12 @@
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio <a name="about-project"></a>
+# 📖capstone-project <a name="about-project"></a>
 
 
-**Portfollio** This is project that introdume to the world of software developer.
+**capstone-project** This is a project about my portfolio webpage that begins with mobile screen sizes to desktops screen sizes.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,9 +56,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-This is the [live demo link](https://firstpj.github.io/Portfolio-Mobile-first-set-up/)
+This is the [live demo link](https://firstpj.github.io/capstone-project/)
 
-This is the [portfolio presentation loom video link](https://www.loom.com/share/928a1741893449afb5b9266ec2be2793)
+This is the [portfolio presentation loom video link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,12 +102,6 @@ This project doesn't need to be deployed
 - Twitter: [@AkordaC](https://twitter.com/AkordaC)
 - LinkedIn: [Collins Akorda](https://www.linkedin.com/in/collins-akorda-bb46b2232/)
 
-👤 **Maryam**
--- GitHub: [@maryam0007](https://github.com/maryam0007)
-- Twitter: [@maryam5905](https://twitter.com/maryam5905)
-- LinkedIn: [Maryam Bakhtawar](https://www.linkedin.com/in/maryam-bakhtawar-516603267/)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -133,6 +128,14 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project don't hesitate to give it a start. 
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I want to give special thanks to Microverse for the great opportunity given to me to realise my dreams.
+
+Thanks to [Cindy Shin](https://www.behance.net/adagio07) for the great design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
