@@ -166,6 +166,7 @@ main {
 }
 
 .main-page .greet {
+  text-align: center;
   color: #ec5242;
   font-size: 1.7rem;
   margin-bottom: 0.5rem;
@@ -173,8 +174,10 @@ main {
 
 .main-page h1 {
   text-transform: uppercase;
+  text-align: center;
+  padding: 0;
   color: #ec5242;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 500;
   margin-bottom: 2rem;
   font-family: 'Cocogoose', sans-serif;
@@ -765,7 +768,7 @@ footer {
   }
 
   header nav .bottom ul a {
-    color: red;
+    color: rgb(177, 3, 157);
     font-size: 1.1rem;
     font-weight: 700;
     opacity: 0.7;
