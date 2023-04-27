@@ -30,17 +30,17 @@ const speakers = document.querySelector('.featured-speakers');
 const speakersDetails = [
   {
     id: 1,
-    name: 'Prof. Nana Aba Appiah Amfo',
+    name: 'Prof. Nana Aba Asare Amfo',
     title: 'Vice-chancellor, University of Ghana.',
-    speakerImg: 'images/speaker1.jpg',
+    speakerImg: 'images/chris-mills.jpg',
     about:
       'Prof. Nana Aba Appiah Amfo is a university administrator and the current Vice-chancellor at UG.',
   },
   {
     id: 2,
-    name: 'Mr. Ransford Gyampo',
+    name: 'Mr. Ransford Gyamsi',
     title: 'Professor, University of Ghana.',
-    speakerImg: 'images/speaker2.jpg',
+    speakerImg: 'images/brad-smith.jpg',
     about:
       'Prof Gyampo is an Associate Professor of Political Science and Director of the Centre for European Studies of UG.',
   },
@@ -48,31 +48,31 @@ const speakersDetails = [
     id: 3,
     name: 'Kojo Oppong-Nkrumah',
     title: 'MP & Information Minister. Republic of Ghana.',
-    speakerImg: 'images/speaker3.jpg',
+    speakerImg: 'images/images.jpg',
     about:
       'Kojo Oppong-Nkrumah is a Ghanaian politician and Lawyer. He is the member of parliament for the Ofoase-Ayirebi constituency.',
   },
   {
     id: 4,
-    name: 'Naa Ashorkor',
+    name: 'carolyn-chandler',
     title: 'Actress & Media Personality.',
-    speakerImg: 'images/speaker4.jpg',
+    speakerImg: 'images/carolyn-chandler.jpg',
     about:
       'Naa Ashorkor is an award-winning Ghanaian actress and a media personality who currently works at Asaase Radio.',
   },
   {
     id: 5,
-    name: 'Nana Aba Anamoah',
+    name: 'Nana Asare Anamoah',
     title: 'Media Personality',
-    speakerImg: 'images/speaker5.jpg',
+    speakerImg: 'images/jennifer-jones.jpg',
     about:
       'Nana Aba Anamoah is a Ghanaian award-winning media personality,news anchor, and broadcaster.',
   },
   {
     id: 6,
-    name: 'Kwabena Yeboah',
+    name: 'darby-frey',
     title: 'Veteran Sports Journalist',
-    speakerImg: 'images/speaker6.jpg',
+    speakerImg: 'images/darby-frey.jpg',
     about:
       ' Mr. Yeboah is a Ghanaian veteran sports journalist, writer and commentator.',
   },
