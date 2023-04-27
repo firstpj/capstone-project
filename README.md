@@ -58,7 +58,11 @@
 
 This is the [live demo link](https://firstpj.github.io/capstone-project/)
 
-This is the [portfolio presentation loom video link]()
+
+## 🚶‍♂️ Walkthrough <a name="walkthrough"></a>
+
+-[Walkthrough Link](https://https://www.loom.com/share/671307d7da33458da2b8cc6f51252079)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
