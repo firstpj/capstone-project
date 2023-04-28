@@ -126,14 +126,7 @@ main {
 .main-page {
   padding-top: 4rem;
 }
-/*.about-page {
-  
-  text-align: center;
-  display: grid;
-  place-items: center;
-  padding-bottom: 4rem;
-}
-*/
+
 .main-page .greet {
   text-align: center;
   color: #ec5242;
