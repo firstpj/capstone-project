@@ -255,10 +255,12 @@ main {
   color: #34363c;
   font-size: 1rem;
   font-weight: 700;
+  margin-left: 40%;
 }
 
 .main-page .email:hover {
   text-decoration: underline;
+ 
 }
 
 /* MAIN ENDS */
