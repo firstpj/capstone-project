@@ -56,7 +56,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-This is the [live demo link](https://firstpj.github.io/capstone-project/)
+**[live demo link](https://firstpj.github.io/capstone-project/)**
  **[Video Presentation](https://www.loom.com/share/a6cf61fe03ec49d7b36bfeaacece8bac)**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
