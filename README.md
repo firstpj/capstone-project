@@ -61,7 +61,7 @@ This is the [live demo link](https://firstpj.github.io/capstone-project/)
 
 ## 🚶‍♂️ Walkthrough <a name="walkthrough"></a>
 
--[Walkthrough Link](https://https://www.loom.com/share/671307d7da33458da2b8cc6f51252079)
+-[Walkthrough Link](https://https://https://www.loom.com/share/a6cf61fe03ec49d7b36bfeaacece8bac)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
