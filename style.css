@@ -252,7 +252,7 @@ main {
 }
 
 .main-page .email {
-  color: #272a31;
+  color: #34363c;
   font-size: 1rem;
   font-weight: 700;
 }
@@ -260,6 +260,7 @@ main {
 .main-page .email:hover {
   text-decoration: underline;
 }
+
 
 /* MAIN ENDS */
 
